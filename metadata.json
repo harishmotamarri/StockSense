@@ -1,0 +1,6 @@
+{
+  "name": "StockSense - Enterprise Inventory Management System",
+  "description": "Centralized inventory management system for tracking products, receipts, delivery orders, internal transfers, stock counting, and real-time ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
